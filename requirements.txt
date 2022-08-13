@@ -1,7 +1,12 @@
+dataclasses~=0.6
+pandas~=1.4.1
+pyarrow~=7.0.0
+orjson~=3.7.11
 boto3~=1.24.47
 botocore~=1.27.47
-dataclasses~=0.6
+xxhash~=3.0.0
 numpy~=1.20.3
 tqdm~=4.63.0
 datasets~=1.15.1
 transformers~=4.17.0
+s3transfer~=0.6.0
